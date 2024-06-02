@@ -47,11 +47,11 @@
 - Led a team of 32 members to design and construct a Martian rover with advanced autonomous exploration and manipulation capabilities.
 
 ### **International Rover Design Challenge 2023**
-**_Secured a Prominent Position Globally_**
+**_12th Rank Internationally_**
 - Demonstrated exceptional leadership and collaboration, developing an innovative rover for extraterrestrial exploration.
 
 ### **GUJCOST - Robofest 3.0**
-**_1st Place_**
+**_1st Place Nationally_**
 - Excelled in India's largest robotics competition by leading a team to design two high-performing rovers, showcasing superior skills in autonomous navigation.
 
 ### **National-level Smart India Hackathon**
@@ -59,7 +59,7 @@
 - Successfully addressed real-world challenges with an app-based solution for farmers, demonstrating teamwork and creative problem-solving.
 
 ### **Mindbend - Gujarat’s Largest Techno-Managerial Competition**
-**_1st Prize Winner_**
+**_Champion and 1st Prize Winner_**
 - Innovated a sensory navigation aid for the visually impaired, distinguishing myself with a blend of creativity and technical excellence.
 
 ## 📘 Education
