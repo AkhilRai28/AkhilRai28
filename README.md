@@ -7,6 +7,8 @@
 ## 📫 Contact Me
 - **Email:** [akhilraiking3434@gmail.com](mailto:akhilraiking3434@gmail.com)
 - **LinkedIn:** [Akhil Rai](https://www.linkedin.com/in/akhil-rai28)
+- **Stack Overflow** [Akhil](https://stackoverflow.com/users/25370207/akhil)
+- **Research Gate** [Akhil](https://www.researchgate.net/profile/Akhil-Rai)
 - **Location:** Surat, Gujarat, India
 
 ## 🔧 Technical Skills
