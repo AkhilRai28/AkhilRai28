@@ -66,7 +66,7 @@
 
 - **Bachelor of Technology (BTech) in Electronics and Communications Engineering**
   - Sardar Vallabhbhai National Institute of Technology, Surat
-  - **CGPA:** 8.25 (Expected Graduation: June 2026)
+  - **CGPA:** 8.31 (Expected Graduation: June 2026)
 
 - **Intermediate Science (PCM)**
   - Kendriya Vidyalaya
