@@ -4,18 +4,31 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AkhilRai28&style=flat-square&color=blue)
 
+---
+
 ## 📫 Contact Me
-- **Email:** [akhilraiking3434@gmail.com](mailto:akhilraiking3434@gmail.com)
-- **LinkedIn:** [Akhil Rai 'LinkedIn'](https://www.linkedin.com/in/akhil-rai-10686928b/)
-- **Stack Overflow** [Akhil Rai 'Stack Overflow'](https://stackoverflow.com/users/25370207/akhil)
-- **Research Gate** [Akhil Rai 'Research Gate'](https://www.researchgate.net/profile/Akhil-Rai)
-- **Location:** Surat, Gujarat, India
-- **Phone:** +91 9971900993
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhilraiking3434@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-rai-10686928b/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25370207/akhil)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Akhil-Rai)
+
+📍 **Location:** Surat, Gujarat, India  
+📞 **Phone:** +91 9971900993
+
+---
 
 ## 🔧 Technical Skills
 
 ### Programming Languages
-- Java, Python, C++, C, JavaScript, SQL, HTML, MySQL
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Robotics & Automation
 - **Robot Operating System (ROS, ROS2)**
@@ -24,21 +37,28 @@
 - Kinematics, Trajectory Planning, Autonomous Algorithms
 
 ### Machine Learning & Computer Vision
-- Computer Vision, OpenCV
-- Machine Learning Libraries (e.g., TensorFlow, PyTorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+- Computer Vision
 - Object Recognition
 
 ### Hardware & Embedded Systems
-- STM-32 Microcontrollers
-- Arduino, Raspberry Pi
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ### Cloud & DevOps
-- Google Cloud Platform (GCP)
-- Jenkins, GitLab
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### Tools & Technologies
-- Git, TensorFlow, PyTorch, OpenCV
-- Unix/Linux, Ubuntu, Windows
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Unix](https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Languages
 - Hindi (Native or Bilingual)
@@ -46,27 +66,31 @@
 - Sanskrit (Limited Working)
 - German (Elementary)
 
+---
+
 ## 🏆 Highlighted Achievements
 
-### **International Rover Challenge 2024**
+### International Rover Challenge 2024
 **_Top 17 Internationally_**
 - Led a team to secure 17th place in a competition involving over 1,000 students, demonstrating exceptional leadership and technical skills.
 
-### **ISRO Robotics Challenge 2024**
+### ISRO Robotics Challenge 2024
 **_Top 20 Nationally_**
 - Led a team of 10, achieving a top 20 ranking nationally out of over 5000 participants by designing and developing an autonomous navigation algorithm for a rover and 6-DOF manipulator.
 
-### **GUJCOST - Robofest 3.0**
+### GUJCOST - Robofest 3.0
 **_1st Place Nationally_**
 - Led a team of 5 to design and develop two award-winning rovers, showcasing superior robotics engineering and autonomous navigation skills.
 
-### **Google Winter of Code 2024**
+### Google Winter of Code 2024
 **_Top 4 Regional_**
 - Designed a responsive Sting Art website using React, Node.js, TypeScript, Appwrite, MongoDB, and Express.
 
-### **Smart India Hackathon**
+### Smart India Hackathon
 **_National Finalist_**
 - Developed a pioneering Flutter and Dart application using AI/ML, OpenCV, and TensorFlow for rapid crop disease diagnosis.
+
+---
 
 ## 📘 Education
 
@@ -82,32 +106,38 @@
   - St. Francis School, Indirapuram
   - **Percentage:** 93.6 (2020)
 
+---
+
 ## 📜 Certifications
 
 - **Google Cloud Computing Foundations Certificate** (2024)
 - **Machine Learning Specialization** - Talent Battle (2024)
 
+---
+
 ## 💻 Key Projects
 
-### **Autonomous Robotic Arm**
+### Autonomous Robotic Arm
 Developed a sophisticated robotic arm with vision-based control capabilities, integrating advanced hardware and software for real-time object manipulation.
 - **Technologies Used:** ROS, ROS2, Python, Computer Vision, MoveIt-2, STM-32
 - **GitHub Link:** [Robotic Arm](https://github.com/AkhilRai28/Robotic-Arms)
 
-### **Martian Rover**
+### Martian Rover
 Engineered an autonomous rover for Martian exploration, focusing on seamless communication and efficient navigation.
 - **Technologies Used:** ROS, Lidar, Autonomous Navigation, Raspberry Pi, Arduino
 - **GitHub Link:** [Martian Rover](https://github.com/AkhilRai28/Mars-Rover)
 
-### **Live Website-GUI**
+### Live Website-GUI
 Developed a web application for real-time sensor data from rovers and robotic arms, integrating live camera feeds using JavaScript and Python.
 - **Technologies Used:** JavaScript, Python, GCP
 - **GitHub Link:** [Web-GUI](https://github.com/AkhilRai28/Web-GUI)
 
-### **Object Recognition**
+### Object Recognition
 Implemented Python code using OpenCV for real-time arrow detection, achieving 90% accuracy.
 - **Technologies Used:** Python, OpenCV
 - **GitHub Link:** [Arrow Detection](https://github.com/AkhilRai28/Arrow-Detection)
+
+---
 
 ## 🌱 Continuous Learning
 I am dedicated to staying at the forefront of robotics, machine learning, and software development, continuously enhancing my skills and knowledge to keep up with the latest advancements in technology.
