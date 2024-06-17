@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=AkhilRai28&style=flat-square&color=blue)
 
 ## 📫 Contact Me
-- **Email:** [raiakhil2802@gmail.com](mailto:raiakhil2802@gmail.com)
+- **Email:** [akhilraiking3434@gmail.com](mailto:akhilraiking3434@gmail.com)
 - **LinkedIn:** [Akhil Rai 'LinkedIn'](https://www.linkedin.com/in/akhil-rai-10686928b/)
 - **Stack Overflow** [Akhil Rai 'Stack Overflow'](https://stackoverflow.com/users/25370207/akhil)
 - **Research Gate** [Akhil Rai 'Research Gate'](https://www.researchgate.net/profile/Akhil-Rai)
