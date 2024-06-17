@@ -15,7 +15,6 @@ Hi, I'm **Akhil Rai**, a highly motivated BTech ECE undergraduate with a passion
 📞 **Phone:** +91 9971900993
 
 ## 🔧 Technical Skills
-
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,7 +22,7 @@ Hi, I'm **Akhil Rai**, a highly motivated BTech ECE undergraduate with a passion
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Robotics & Automation
@@ -64,7 +63,6 @@ Hi, I'm **Akhil Rai**, a highly motivated BTech ECE undergraduate with a passion
 - German (Elementary)
 
 ## 🏆 Highlighted Achievements
-
 ### International Rover Challenge 2024
 **Top 17 Internationally**  
 Led a team to secure 17th place in a competition involving over 1,000 students, demonstrating exceptional leadership and technical skills.
@@ -86,7 +84,6 @@ Designed a responsive Sting Art website using React, Node.js, TypeScript, Appwri
 Developed a pioneering Flutter and Dart application using AI/ML, OpenCV, and TensorFlow for rapid crop disease diagnosis.
 
 ## 📘 Education
-
 ### Bachelor of Technology (BTech) in Electronics and Communications Engineering
 **Sardar Vallabhbhai National Institute of Technology, Surat**  
 **CGPA:** 8.31 (Expected Graduation: June 2026)
@@ -100,12 +97,10 @@ Developed a pioneering Flutter and Dart application using AI/ML, OpenCV, and Ten
 **Percentage:** 93.6 (2020)
 
 ## 📜 Certifications
-
 - **Google Cloud Computing Foundations Certificate** (2024)
 - **Machine Learning Specialization** - Talent Battle (2024)
 
 ## 💻 Key Projects
-
 ### Autonomous Robotic Arm
 Developed a sophisticated robotic arm with vision-based control capabilities, integrating advanced hardware and software for real-time object manipulation.  
 **Technologies Used:** ROS, ROS2, Python, Computer Vision, MoveIt-2, STM-32  
