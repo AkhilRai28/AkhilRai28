@@ -10,9 +10,6 @@
 
 ![Activity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkhilRai28&theme=dark)
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AkhilRai28&theme=react-dark)
-
-
 ##
 
 ## 👋 About Me
