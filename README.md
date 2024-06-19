@@ -8,6 +8,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AkhilRai28&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilRai28&layout=pie)](https://github.com/AkhilRai28/github-readme-stats)
+
 ##
 
 ## 👋 About Me
