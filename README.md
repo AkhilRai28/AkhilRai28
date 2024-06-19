@@ -8,6 +8,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AkhilRai28&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Activity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkhilRai28&theme=dark)
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AkhilRai28&theme=react-dark)
+
+
 ##
 
 ## 👋 About Me
