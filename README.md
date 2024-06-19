@@ -2,6 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AkhilRai28&style=flat-square&color=blue)
 
+![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkhilRai28&show_icons=true&theme=radical)
+
 ## 👋 About Me
 Hi, I'm **Akhil Rai**, a highly motivated BTech ECE undergraduate with a passion for robotics and software development. I specialize in leading teams to develop cutting-edge autonomous systems, including robotic arms and Martian rovers, and creating robust and scalable applications. My expertise spans multiple programming languages and technologies, enabling me to deliver innovative and efficient solutions in robotics, machine learning, and software engineering.
 
