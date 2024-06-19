@@ -4,6 +4,12 @@
 
 ![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkhilRai28&show_icons=true&theme=radical)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AkhilRai28&theme=radical)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkhilRai28&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+##
+
 ## 👋 About Me
 Hi, I'm **Akhil Rai**, a highly motivated BTech ECE undergraduate with a passion for robotics and software development. I specialize in leading teams to develop cutting-edge autonomous systems, including robotic arms and Martian rovers, and creating robust and scalable applications. My expertise spans multiple programming languages and technologies, enabling me to deliver innovative and efficient solutions in robotics, machine learning, and software engineering.
 
@@ -48,7 +54,6 @@ Hi, I'm **Akhil Rai**, a highly motivated BTech ECE undergraduate with a passion
 
 ### Cloud & DevOps
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### Tools & Technologies
