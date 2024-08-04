@@ -1,6 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AkhilRai28&style=flat-square&color=blue)
+
 ![Activity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkhilRai28&theme=dark)
 
 ##
@@ -14,8 +15,6 @@ Hi, I'm **Akhil Rai**, a highly motivated BTech ECE undergraduate at Sardar Vall
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25370207/akhil)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Akhil-Rai)
 
-📍 **Location:** Surat, Gujarat, India  
-📞 **Phone:** +91 9971900993
 
 ## 🔧 Technical Skills
 ### Programming Languages
@@ -58,12 +57,6 @@ Hi, I'm **Akhil Rai**, a highly motivated BTech ECE undergraduate at Sardar Vall
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Languages
-- Hindi (Native or Bilingual)
-- English (Full Professional)
-- Sanskrit (Limited Working)
-- German (Elementary)
-
 ## 🏆 Highlighted Achievements
 ### International Rover Challenge 2024
 **Top 17 Internationally**  
@@ -84,47 +77,6 @@ Designed a responsive Sting Art website using React, Node.js, TypeScript, Appwri
 ### Smart India Hackathon
 **National Finalist**  
 Developed a pioneering Flutter and Dart application using AI/ML, OpenCV, and TensorFlow for rapid crop disease diagnosis.
-
-## 📘 Education
-### Bachelor of Technology (BTech) in Electronics and Communications Engineering
-**Sardar Vallabhbhai National Institute of Technology, Surat**  
-**CGPA:** 8.31 (Expected Graduation: June 2026)
-
-### Intermediate Science (PCM)
-**Kendriya Vidyalaya**  
-**Percentage:** 95.2 (2022)
-
-### High School
-**St. Francis School, Indirapuram**  
-**Percentage:** 93.6 (2020)
-
-## 📜 Certifications
-- **Google Cloud Computing Foundations Certificate** (2024)
-- **Machine Learning Specialization** - Talent Battle (2024)
-
-## 💻 Key Projects
-### Autonomous Robotic Arm
-Developed a sophisticated robotic arm with vision-based control capabilities, integrating advanced hardware and software for real-time object manipulation.  
-**Technologies Used:** ROS, ROS2, Python, Computer Vision, MoveIt-2, STM-32  
-[GitHub Link](https://github.com/AkhilRai28/Robotic-Arms)
-
-### Martian Rover
-Engineered an autonomous rover for Martian exploration, focusing on seamless communication and efficient navigation.  
-**Technologies Used:** ROS, Lidar, Autonomous Navigation, Raspberry Pi, Arduino  
-[GitHub Link](https://github.com/AkhilRai28/Mars-Rover)
-
-### Live Website-GUI
-Developed a web application for real-time sensor data from rovers and robotic arms, integrating live camera feeds using JavaScript and Python.  
-**Technologies Used:** JavaScript, Python, GCP  
-[GitHub Link](https://github.com/AkhilRai28/Web-GUI)
-
-### Object Recognition
-Implemented Python code using OpenCV for real-time arrow detection, achieving 90% accuracy.  
-**Technologies Used:** Python, OpenCV  
-[GitHub Link](https://github.com/AkhilRai28/Arrow-Detection)
-
-## 🌱 Continuous Learning
-I am dedicated to staying at the forefront of robotics, machine learning, and software development, continuously enhancing my skills and knowledge to keep up with the latest advancements in technology.
 
 ## 🤝 Let's Collaborate!
 I am enthusiastic about collaborative projects and research opportunities in robotics, software development, and related fields. Feel free to reach out to me through email or LinkedIn.
