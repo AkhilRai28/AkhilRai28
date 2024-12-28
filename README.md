@@ -6,7 +6,7 @@
 </p>
 
 ## Hi, I'm Akhil Rai! 👋  
-🚀 **Software Engineer | Robotics Enthusiast | AI Innovator**  
+🚀 **Software Engineer | Full-Stack Developer | AI/ML Specialist | Cloud Computing Expert | Robotics Enthusiast | NLP Practitioner | Competitive Programmer | IRC'24 World Finalist | NIT Surat**  
 
 I’m a **BTech ECE undergraduate at SVNIT Surat**, passionate about solving real-world problems using **software development, distributed systems, and AI-driven robotics**. Whether it's designing scalable applications, creating intelligent algorithms, or building autonomous systems, I thrive on pushing boundaries and innovating at scale.  
 
