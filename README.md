@@ -11,8 +11,12 @@
 I’m a **BTech ECE undergraduate at SVNIT Surat**, passionate about solving real-world problems using **software development, distributed systems, and AI-driven robotics**. Whether it's designing scalable applications, creating intelligent algorithms, or building autonomous systems, I thrive on pushing boundaries and innovating at scale.  
 
 > **"Always learning, always building — solving problems that matter."**
+<br>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkhilRai28&theme=radical" alt="Activity Stats">
+</div>
+<br>
 
-![Activity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkhilRai28&theme=radical)  
 ---
 
 ## 🔑 Key Highlights  
@@ -111,9 +115,19 @@ I’m a **BTech ECE undergraduate at SVNIT Surat**, passionate about solving rea
 ---
 
 ## 💡 My Philosophy  
-**"Always learning, always building — solving problems that matter."**
+<div align="center"><strong>"Always learning, always building — solving problems that matter."</strong></div>
+<br><br>
 
-<a href="http://www.github.com/akhilrai28"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilrai28&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<div align="center"><a href="http://www.github.com/akhilrai28"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilrai28&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><img src="https://github-readme-stats.vercel.app/api?username=AkhilRai28&show_icons=true&theme=radical" alt="My GitHub Stats" /></div>
+
+
+---
+
+<div align="center">
+
+  ![snake_gif](https://github.com/AkhilRai28/AkhilRai28/blob/output/github-snake-dark.svg)
+</div>
 
 ---
 
@@ -122,5 +136,3 @@ I am enthusiastic about collaborative projects and research opportunities in rob
 
 
 ⭐️ From [AkhilRai28](https://github.com/AkhilRai28)
-
-![snake_gif](https://github.com/AkhilRai28/AkhilRai28/blob/output/github-contribution-grid-snake.svg)
