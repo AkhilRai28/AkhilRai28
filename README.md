@@ -122,3 +122,5 @@ I am enthusiastic about collaborative projects and research opportunities in rob
 
 
 ⭐️ From [AkhilRai28](https://github.com/AkhilRai28)
+
+![snake_gif](https://github.com/AkhilRai28/AkhilRai28/blob/output/github-contribution-grid-snake.svg)
