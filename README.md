@@ -6,9 +6,9 @@
 </p>
 
 ## Hi, I'm Akhil Rai! 👋  
-🚀 **Software Engineer | Full-Stack Developer | AI/ML Specialist | Cloud Computing Expert | Robotics Enthusiast | NLP Practitioner | Competitive Programmer | IRC'24 World Finalist | NIT Surat**  
+🚀 **Electronics Engineer | AI/ML Specialist | IRC'24&25 World Finalist | Cloud Computing Expert | Robotics Enthusiast | NLP Practitioner | Full-Stack Developer | Software Developer | Competitive Programmer | NIT Surat'26**  
 
-I’m a **BTech ECE undergraduate at SVNIT Surat**, passionate about solving real-world problems using **software development, distributed systems, and AI-driven robotics**. Whether it's designing scalable applications, creating intelligent algorithms, or building autonomous systems, I thrive on pushing boundaries and innovating at scale.  
+I’m a **BTech ECE undergraduate at NIT Surat**, passionate about solving real-world problems using **Cloud Computing, Electronics Engineering, AI/ML, Software Development, Robotics, NLP, and Full-Stack Development**. Whether it's designing scalable applications, creating intelligent algorithms, or building autonomous systems, I thrive on pushing boundaries and innovating at scale.  
 
 > **"Always learning, always building — solving problems that matter."**
 <br>
@@ -21,25 +21,51 @@ I’m a **BTech ECE undergraduate at SVNIT Surat**, passionate about solving rea
 
 ## 🔑 Key Highlights  
 
-### 🌟 Featured Projects 🚀  
-- **[Scalable File Storage System (Ongoing)](https://github.com/AkhilRai28/File-Storage-System)**  
-  - A distributed file system designed to handle large-scale user requests using **Python, C++**, and **Google Cloud Platform**.  
-  - **Key Features:** Efficient data retrieval algorithms, enhanced scalability, and redundancy.  
-  - **Tech Stack:** Python, C++, GCP.  
+### 🌟 Featured Projects 🚀
 
-- **[AI-Powered Virtual Assistant](https://github.com/AkhilRai28/Virtual-Assistant)**  
-  - A voice-activated assistant leveraging **TensorFlow** and **NLP** for real-time query processing and automation.  
-  - Reduced manual intervention by **70%**.  
-  - **Tech Stack:** Python, TensorFlow, Flask.  
+- **[Scalable UDP Server for Low-Latency Humidity Data Transmission](https://github.com/AkhilRai28/Scalable-UDP-Server-for-Low-Latency-Data-Transmission)**  
+  - Real-time sensor data acquisition via UDP server with **low-latency** transmission, **advanced logging/error handling**, **modular architecture** for scalability, **containerized deployment** with Docker, and **CI/CD workflows** using GitHub Actions.  
+  - **Key Features:** Near real-time data serving, simulation mode, multithreaded UDP server, enhanced scalability, and extensibility with added services (analytics, notifications, caching).  
+  - **Impact:** Built for high-throughput applications, automated testing/deployment, and Dockerized for seamless scalability in various environments.  
+
+    - **Tech Stack:**
+      - **Languages & Frameworks:** Python, Docker, GitHub Actions  
+      - **Tools & Libraries:** DHT sensor, UDP, CI/CD, Multithreading, JSON  
+      - **Key Technologies:** Docker Compose, GitHub Actions, Sensor Integration, Real-Time Data Systems
+
+
+- **[High-Performance Cloud Data Retrieval & Visualization Framework](https://github.com/AkhilRai28/High-Performance-Cloud-Data-Retrieval-Visualization)**  
+  - An advanced open-source framework designed to **retrieve, process**, and **visualize** complex datasets from diverse cloud sources such as IoT devices, logs, social media feeds, and RESTful APIs.  
+  - **Key Features:** Seamless cloud integration, robust data processing pipelines, interactive visualization tools, and extensible design for modular integration.  
+  - **Impact:** Engineered for scalable and high-performance data processing, with full support for containerization and DevOps integrations (CI/CD, Docker).  
+
+    - **Tech Stack:**
+      - **Languages & Frameworks:** Python, Docker, GitHub Actions
+      - **Tools & Libraries:** Cloud APIs, RESTful APIs, Asynchronous Processing, Matplotlib, Plotly
+      - **Key Technologies:** Cloud Data Integration, Real-Time Data Processing, Interactive Visualization, Modular Architecture, CI/CD Pipelines
+   
 
 - **[Autonomous Rover Navigation System](https://github.com/AkhilRai28/Mars-Rover)**  
-  - Real-time **LiDAR-based navigation** and traffic detection using **ROS** and **OpenCV**.  
-  - Achieved **95% accuracy** in traffic detection and successfully demonstrated capabilities in simulation.  
-  - **Tech Stack:** ROS, OpenCV, Python.  
+  - A mobile autonomous rover designed for **soil analysis** and **navigation** in challenging environments, with advanced components for **power management, motor control**, and **communication**.  
+  - **Key Features:** Comprehensive **camera systems** for navigation, manipulation, and soil analysis; robust **communication** over Wi-Fi with a 950m range; and powerful **robot control** using Raspberry Pi and Arduino.  
+  - **Impact:** Enables autonomous operation in harsh environments with real-time data transmission and remote control.  
 
-- **[Vision-Driven Robotic Arm](https://github.com/AkhilRai28)**  
-  - Developed a **6-DOF robotic arm** for object manipulation using **ROS2** and **MoveIt-2**, reducing errors by **20%**.  
-  - **Tech Stack:** ROS2, MoveIt-2, Python.  
+    - **Tech Stack:**
+      - **Languages & Frameworks:** C++, Python, Node.js, HTML5
+      - **Key Technologies:** Raspberry Pi, Arduino, Robot Operating System (ROS), OpenCV, TensorFlow, Gazebo, Rviz
+      - **Components:** Ultrasonic Sensors (HCSR05), IMU (MPU9250), GPS, Cytron Motor Drivers, Lithium Polymer Batteries, Wi-Fi Communication, Web-GUI, MJPG-4 Streaming
+      - **Tools & Libraries:** WebSocket, MJPG-streamer, npm-based Node.js frameworks
+
+- **[Vision-Driven Robotic Arm System](https://github.com/AkhilRai28)**  
+  - A **robotic arm** designed for **autonomous rovers**, with a focus on **mechanical design**, **drive electronics**, and **advanced control algorithms**.  
+  - **Key Features:** Optimized **mechanical design** for strength and lightweight; **precise motor control** with sensors; **software integration** using ROS2 for smooth operation and task execution.  
+  - **Impact:** The robotic arm enhances the rover's capabilities, allowing it to autonomously perform tasks like object manipulation and placement.
+
+    - **Tech Stack:**
+      - **Languages & Frameworks:** C++, Python, ROS2
+      - **Key Technologies:** OpenCV, Arduino, Motor Drivers, Proximity Sensors, Encoders, DC Motors
+      - **Components:** Aluminum and high-strength plastics for the structure, ergonomic gripper for object handling
+      - **Tools & Libraries:** colcon (for building ROS2 packages), pip (for managing Python dependencies)
 
 ---
 
@@ -51,23 +77,31 @@ I’m a **BTech ECE undergraduate at SVNIT Surat**, passionate about solving rea
 
 ## 🏆 Achievements & Recognitions
 
-<div align="left">
+<div align="center">
   <table>
     <tr>
+      <td align="center" width="20%"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZhy6uNZzmdjdzjDTa_tYZgz4bTl-RnYrpujjn_q2Z_HrgMK2O2o_h7qFjYV0xQGHYguY&usqp=CAU" alt="SPROS IRC" width="60" height="60"/></td>
+      <td><b><span style="color: #4CAF50;">Rover Development Award: International Space Robotics Week 2025:</span></b><br>Became one of the only 6 person globally to be awarded among 1,000 teams and 100,000 students.</td>
+    </tr>
+    <tr>
       <td align="center" width="20%"><img src="https://roverchallenge.org/wp-content/uploads/2023/03/IRC_Icon-2-1-2048x2048.png" alt="SPROS IRC" width="60" height="60"/></td>
-      <td><b><span style="color: #4CAF50;">International Rover Challenge 2024:</span></b><br>Ranked in the global Top 17 out of over 1,000 competing teams for outstanding rover design and performance.</td>
+      <td><b><span style="color: #4CAF50;">International Rover Challenge 2025:</span></b><br>Led a team to secure 14th place internationally among 100,000 students.</td>
     </tr>
-    <tr>
-      <td align="center" width="20%"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Indian_Space_Research_Organisation_Logo.svg" alt="ISRO IRoC-U" width="60" height="60"/></td>
-      <td><b>ISRO Robotics Challenge 2024:</b><br>Placed among the national Top 20 out of 5,000 participants, showcasing advanced robotics capabilities.</td>
-    </tr>
-    <tr>
+        <tr>
       <td align="center" width="20%"><img src="https://nirmawebsite.s3.ap-south-1.amazonaws.com/wp-content/uploads/sites/50/2024/11/Robofest4.0-logo.png" alt="GUJCOST ROBOFEST 4.0" width="60" height="60"/></td>
       <td><b>GUJCOST ROBOFEST 4.0:</b><br>Delivered a fully functional rover prototype in the Proof of Concept round, securing a ₹50,000 prize.</td>
     </tr>
     <tr>
+      <td align="center" width="20%"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Indian_Space_Research_Organisation_Logo.svg" alt="ISRO IRoC-U" width="60" height="60"/></td>
+      <td><b>ISRO Robotics Challenge 2024 - URSC:</b><br>Achieved a top 20 national ranking among 5,000 participants</td>
+    </tr>
+    <tr>
       <td align="center" width="20%"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/800px-Google_%22G%22_logo.svg.png" alt="Google Winter of Code" width="60" height="60"/></td>
       <td><b>Google Winter of Code 2024:</b><br>Achieved Regional Top 4 recognition for the development of a highly responsive and user-centric web application.</td>
+    </tr>
+    <tr>
+      <td align="center" width="20%"><img src="https://roverchallenge.org/wp-content/uploads/2023/03/IRC_Icon-2-1-2048x2048.png" alt="SPROS IRC" width="60" height="60"/></td>
+      <td><b><span style="color: #4CAF50;">International Rover Challenge 2024:</span></b><br>Ranked in the global Top 17 out of over 10,000+ participants for outstanding rover design and performance.</td>
     </tr>
     <tr>
       <td align="center" width="20%"><img src="https://i0.wp.com/opportunitycell.com/wp-content/uploads/2022/03/SIH2.png?fit=327%2C345&ssl=1" alt="Smart India Hackathon 2023" width="60" height="60"/></td>
