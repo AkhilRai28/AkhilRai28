@@ -10,53 +10,28 @@
 
 ### Akhil Rai
 
-**ECE @ NIT Surat · Class of 2026 · IRC '24 & '25 World Finalist**
-
 `robotics` · `AI/ML` · `cloud systems` · `software engineering`
 
 </div>
-
----
-
-### `01 // about-me`
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AkhilRai28&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/AkhilRai28?style=flat-square" alt="GitHub Stars" />
+</p>
 
 I'm interested in building systems where intelligent software meets the physical world. My work and projects span robotics, AI/ML, and cloud/backend engineering — from autonomous rover systems to scalable data applications.
 
-[LinkedIn](https://linkedin.com/in/akhil-rai28) · [LeetCode](https://leetcode.com/akhilrai) · [Codeforces](https://codeforces.com/profile/penguin-sucks) · [Stack Overflow](https://stackoverflow.com/users/25370207)
+[LinkedIn](https://linkedin.com/in/akhil-rai28) · [LeetCode](https://leetcode.com/akhilrai) · [Codeforces](https://codeforces.com/profile/Akhil-Rai) · [Stack Overflow](https://stackoverflow.com/users/25370207)
 
----
-
-### `02 // terminal — github stats`
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AkhilRai28&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;custom_title=akhil%40github%3A~%24%20git%20stats&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00FF9C&amp;icon_color=00FF9C&amp;text_color=C9D1D9" alt="Akhil Rai's GitHub statistics" width="495" />
 
-</div>
 
----
-
-### `03 // achievements — trophy case`
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AkhilRai28&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="./metrics.isocalendar.svg" alt="Isometric view of my GitHub contribution calendar" width="40%" />
 
 </div>
 
----
-
-### `04 // activity — isometric commit calendar`
-
-<div align="center">
-
-<img src="./metrics.isocalendar.svg" alt="Isometric view of my GitHub contribution calendar" width="100%" />
-
-</div>
-
----
-
-### `05 // arcade — pac-man eats my contributions`
 
 <div align="center">
 
@@ -72,6 +47,5 @@ I'm interested in building systems where intelligent software meets the physical
 
 <div align="center">
 
-`while (curious) { learn(); build(); repeat(); }`
 
 </div>
